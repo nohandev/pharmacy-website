@@ -1,6 +1,10 @@
+import Navbar from './components/Navbar'
+
 const App = () => {
   return (
-    <div className="text-amber-300">Hello World</div>
+    <div className='font-roboto'>
+      <Navbar/>
+    </div>
   )
 }
 

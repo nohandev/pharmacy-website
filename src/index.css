@@ -1,1 +1,12 @@
 @import 'tailwindcss';
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@theme {
+  --color-primary: #0070FA;
+  --color-secondary: #16215B;
+  --color-light: #CECECE;
+  --font-plus-jakarta:"Plus Jakarta Sans", sans-serif;
+  --font-roboto:"Roboto", sans-serif;
+}
